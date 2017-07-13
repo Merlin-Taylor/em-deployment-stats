@@ -1,0 +1,11 @@
+{
+  "name": "em-deployment-stats",
+  "version": "0.0.1",
+  "description": "Environment Manager Deployment Statistics",
+  "main": "index.js",
+  "author": "Merlin Taylor <code.merlin.taylor@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "aws-sdk": "^2.83.0"
+  }
+}
