@@ -6,6 +6,7 @@
   "author": "Merlin Taylor <code.merlin.taylor@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "aws-sdk": "^2.83.0"
+    "aws-sdk": "^2.83.0",
+    "lodash": "^4.17.4"
   }
 }
